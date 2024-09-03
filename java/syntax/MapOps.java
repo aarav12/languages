@@ -29,6 +29,9 @@ public class MapOps {
         map.containsKey("E");
         map.containsValue(2);
 
+        //HashMap and ConcurrentHashMap are both implementations of the Map interface in Java,
+        //but they serve different purposes and have different characteristics, especially in the context of concurrency
+
     }
 
     public static void treeMapOps() {
